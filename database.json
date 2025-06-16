@@ -1,4 +1,6 @@
-[
-  {"code": "film1", "title": "Example Movie"},
-  {"code": "film2", "title": "Another One"}
-]
+{
+  "codes": [
+    { "code": "film1", "title": "Example Movie" },
+    { "code": "film2", "title": "Another One" }
+  ]
+}
